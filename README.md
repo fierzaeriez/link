@@ -1,3 +1,2 @@
 # FierzaXploit Mini Shell Backdoor
-AUTHOR : FierzaXploit/Mr.MF33 \n
-My Team : Dark 3xploit Cyber || Clan X_12 || Buitenzorg Syndicate
+AUTHOR : FierzaXploit/Mr.MF33
