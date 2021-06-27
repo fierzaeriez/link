@@ -1,2 +1,4 @@
 # FierzaXploit Mini Shell Backdoor
-AUTHOR : FierzaXploit/Mr.MF33
+Author : FierzaXploit/Mr.MF33
+<br>
+Version : 1.0 (Beta)                    
