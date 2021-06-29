@@ -7,7 +7,7 @@ UPDATE FX Mini Shell!!!!<br>
 beta version To 
 Release candidate Version
 <br>
-Update feature :<br>
+Update feature :
 - Mass Delete<br>
 - Mass Deface<br>
 - Create RansomWeb<br>
