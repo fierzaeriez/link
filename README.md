@@ -8,6 +8,7 @@ beta version To
 Release candidate Version
 <br><br>
 Update feature :
+- Bypass 403 Forbidden<br>
 - Mass Delete<br>
 - Mass Deface<br>
 - Create RansomWeb<br>
@@ -15,4 +16,4 @@ Update feature :
 - Create Folder<br>
 - Symlink (beta version)<br>
 - Fix design<br>
-- fix minor bug<br>
+- Fix minor bug<br>
