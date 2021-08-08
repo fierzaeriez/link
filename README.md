@@ -4,7 +4,7 @@ Author : FierzaXploit/Mr.MF33
 Version : 1.0 (Release candidate)
 <br>
 Feature :
-- Bypass 403 Forbidden(Maintenance)<br>
+- Bypass 403 Forbidden<br>
 - Mass Delete<br>
 - Mass Deface<br>
 - Create RansomWeb<br>
