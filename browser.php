@@ -1,4 +1,5 @@
-function browsernya()
+<?php 
+        function browsernya()
         {
             // deteksi browser
             $browser = "";
@@ -23,3 +24,5 @@ function browsernya()
                 echo $browser;
             }
         }
+
+?>
