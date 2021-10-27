@@ -11,4 +11,4 @@ Feature :
 - Create file<br>
 - Create Folder<br>
 - Symlink (beta version)<br>
-- Terminalfont color="red"><i>UPDATE!</i></font><br>
+- Terminal<font color="red"><i>UPDATE!</i></font><br>
