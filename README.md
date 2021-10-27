@@ -1,4 +1,4 @@
-# FierzaXploit Mini Shell Backdoor
+# FierzaXploit WebShell Backdoor
 Author : FierzaXploit/Mr.MF33
 <br>
 Version : 1.1 (Release)
