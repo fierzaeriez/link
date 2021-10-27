@@ -1,7 +1,7 @@
 # FierzaXploit Mini Shell Backdoor
 Author : FierzaXploit/Mr.MF33
 <br>
-Version : 1.0 (Release candidate)
+Version : 1.1 (Release)
 <br>
 Feature :
 - Bypass 403 Forbidden<br>
@@ -11,3 +11,4 @@ Feature :
 - Create file<br>
 - Create Folder<br>
 - Symlink (beta version)<br>
+- Terminalfont color="red"><i>UPDATE!</i></font><br>
